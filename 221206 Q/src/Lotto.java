@@ -13,6 +13,11 @@ public class Lotto {
 		}
 		System.out.println("랜덤번호: "+ lotto);
 		
+		
+		
+		System.out.println("추가");
+		
+		
 		Set<Integer> lotto1 = new TreeSet<>();
 		lotto1.add(8);
 		lotto1.add(13);
